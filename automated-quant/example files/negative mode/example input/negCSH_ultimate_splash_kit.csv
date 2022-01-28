@@ -1,0 +1,54 @@
+iSTD Name,ng iSTD extracted
+1_Cer 16:1 d18:1-d7/16:1 iSTD [M+Hac-H]-,150
+1_Cer 18:1 d18:1-d7/18:1 iSTD [M+Hac-H]-,100
+1_Cer 20:1 d18:1-d7/20:1 iSTD [M+Hac-H]-,50
+1_Cer 22:1 d18:1-d7/22:1 iSTD [M+Hac-H]-,100
+1_Cer 24:1 d18:1-d7/24:1 iSTD [M+Hac-H]-,150
+1_FA 16:0-d3 (palmitic acid) iSTD [M-H]-,150
+1_FA 18:1-d9 (oleic acid) iSTD [M-H]-,100
+1_FA 20:4-d11 (arachidonic acid) iSTD [M-H]-,50
+1_LPC 15:0-d5 iSTD [M+Hac-H]-,50
+1_LPC 17:0-d5 iSTD [M+Hac-H]-,100
+1_LPC 19:0-d5 iSTD [M+Hac-H]-,50
+1_LPE 15:0-d5 iSTD [M-H]-,50
+1_LPE 17:0-d5 iSTD [M-H]-,100
+1_LPE 19:0-d5 iSTD [M-H]-,50
+1_LPG 15:0-d5 iSTD [M-H]-,50
+1_LPG 17:0-d5 iSTD [M-H]-,100
+1_LPG 19:0-d5 iSTD [M-H]-,50
+1_LPI 15:0-d5 iSTD [M-H]-,50
+1_LPI 17:0-d5 iSTD [M-H]-,100
+1_LPI 19:0-d5 iSTD [M-H]-,50
+1_LPS 15:0-d5 iSTD [M-H]-,50
+1_LPS 17:0-d5 iSTD [M-H]-,100
+1_LPS 19:0-d5 iSTD [M-H]-,50
+1_PC 17:0/14:1-d5 iSTD [M+Hac-H]-,100
+1_PC 17:0/16:1-d5 iSTD [M+Hac-H]-,200
+1_PC 17:0/18:1-d5 iSTD [M+Hac-H]-,300
+1_PC 17:0/20:3-d5 iSTD [M+Hac-H]-,200
+1_PC 17:0/22:4-d5 iSTD [M+Hac-H]-,100
+1_PE 17:0/14:1-d5 iSTD [M-H]-,50
+1_PE 17:0/16:1-d5 iSTD [M-H]-,100
+1_PE 17:0/18:1-d5 iSTD [M-H]-,150
+1_PE 17:0/20:3-d5 iSTD [M-H]-,100
+1_PE 17:0/22:4-d5 iSTD [M-H]-,50
+1_PG 17:0/14:1-d5 iSTD [M-H]-,50
+1_PG 17:0/16:1-d5 iSTD [M-H]-,100
+1_PG 17:0/18:1-d5 iSTD [M-H]-,150
+1_PG 17:0/20:3-d5 iSTD [M-H]-,100
+1_PG 17:0/22:4-d5 iSTD [M-H]-,50
+1_PI 17:0/14:1-d5 iSTD [M-H]-,50
+1_PI 17:0/16:1-d5 iSTD [M-H]-,100
+1_PI 17:0/18:1-d5 iSTD [M-H]-,150
+1_PI 17:0/20:3-d5 iSTD [M-H]-,100
+1_PI 17:0/22:4-d5 iSTD [M-H]-,50
+1_PS 17:0/14:1-d5 iSTD [M-H]-,50
+1_PS 17:0/16:1-d5 iSTD [M-H]-,100
+1_PS 17:0/18:1-d5 iSTD [M-H]-,150
+1_PS 17:0/20:3-d5 iSTD [M-H]-,100
+1_PS 17:0/22:4-d5 iSTD [M-H]-,50
+1_SM 16:1-d9 d18:1/16:1 iSTD [M+Hac-H]-,150
+1_SM 18:1-d9 d18:1/18:1 iSTD [M+Hac-H]-,100
+1_SM 20:1-d9 d18:1/20:1 iSTD [M+Hac-H]-,50
+1_SM 22:1-d9 d18:1/22:1 iSTD [M+Hac-H]-,100
+1_SM 24:1-d9 d18:1/24:1 iSTD [M+Hac-H]-,150
